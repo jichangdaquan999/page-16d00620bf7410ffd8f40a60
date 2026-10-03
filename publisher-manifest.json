@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "77018a116c805089b97b41ea",
+  "owner": "jichangdaquan999",
+  "repo": "page-16d00620bf7410ffd8f40a60",
+  "title": "虚无阁",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "16d00620bf7410ffd8f40a60",
+      "a": "虚无阁",
+      "b": "",
+      "entity": "虚无阁",
+      "brand": "虚无阁",
+      "separator": "",
+      "path": "index.html",
+      "hash": "401abe0efbd9590d215e555636af8763b36d54d2791b7e759691e71036728729",
+      "content": {
+        "keyword1": "虚无阁",
+        "keyword2": "",
+        "primary_entity": "虚无阁",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "虚无阁提供高可用机场订阅与 VPN 网络加速服务，支持多设备客户端下载，覆盖流媒体解锁、办公与游戏加速，欢迎访问官方网站了解套餐并获取下载指引。",
+          "AI_DESCRIPTION": "虚无阁提供高可用机场订阅与 VPN 网络加速服务，支持多设备客户端下载，覆盖流媒体解锁、办公与游戏加速，欢迎访问官方网站了解套餐并获取下载指引。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*,*:before,*:after{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%;overflow-x:hidden}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f3f4f6;color:#1f2937;font-size:16px;line-height:1.75}a{color:#5b21b6;text-decoration:none}a:hover{text-decoration:underline}header,footer,.wrap{width:100%}header{background:#fff;border-bottom:1px solid #e5e7eb}nav{max-width:960px;margin:0 auto;padding:12px 16px;display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center}nav .brand{font-weight:700;color:#4c1d95;margin-right:8px}nav a{color:#4b5563;font-size:14px}.hero{max-width:960px;margin:0 auto;padding:56px 16px 28px}.hero h1{margin:0 0 12px;font-size:2.05rem;line-height:1.25;color:#4c1d95;font-weight:750;letter-spacing:.02em}.lead{margin:0;max-width:40rem;color:#374151;font-size:1.05rem}main{display:block;max-width:960px;margin:0 auto;padding:8px 16px 48px}section{margin:28px 0;background:#fff;border:1px solid #e5e7eb;border-radius:12px;padding:22px 18px}h2{margin:0 0 12px;font-size:1.35rem;color:#4c1d95}h3{margin:18px 0 8px;font-size:1.08rem;color:#5b21b6}p,li{overflow-wrap:break-word;word-wrap:break-word}ul{margin:8px 0 0;padding-left:1.2em}.plans{display:grid;grid-template-columns:1fr;gap:14px}.plan{border:1px solid #ddd6fe;border-radius:12px;padding:16px;background:#faf5ff}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.plan h3{margin:0 0 6px}.price{font-size:1.35rem;font-weight:700;color:#4c1d95}.annual{color:#6b7280;font-size:.92rem;margin:4px 0 10px}.tag{display:inline-block;background:#7c3aed;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}ol{margin:8px 0 0;padding-left:1.2em}details{border:1px solid #e5e7eb;border-radius:10px;padding:10px 12px;margin:0 0 10px;background:#fafafa}summary{font-weight:650;color:#4c1d95}details p{margin:8px 0 0;color:#374151}.links{display:flex;flex-wrap:wrap;gap:8px 14px}footer{background:#111827;color:#e5e7eb;padding:28px 16px;margin-top:8px}footer .inner{max-width:960px;margin:0 auto}footer a{color:#ddd6fe}footer h2{color:#fff;font-size:1.05rem}.muted{color:#9ca3af;font-size:13px;margin-top:12px}@media(min-width:720px){.plans{grid-template-columns:repeat(3,1fr)}.hero{padding:72px 16px 36px}.hero h1{font-size:2.4rem}}</style><header><nav><a class=\"brand\" href=\"#top\">虚无阁</a><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">说明</a><a href=\"#download\">下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">站点地图</a></nav></header><div class=\"hero\" id=\"top\"><h1>虚无阁</h1><p class=\"lead\">虚无阁官方网站面向需要稳定跨境访问的用户，提供机场订阅、VPN 梯子网络加速与多端客户端下载指引。页面重点对照套餐差异，方便按流量、设备数与线路类型选择合适方案。</p></div><main><section id=\"intro\"><h2>品牌简介</h2><p>虚无阁是专注网络加速的机场服务，将订阅节点、客户端配置与线路策略放在同一套说明里，减少从开通到连上的步骤。服务定位是日常可用的 VPN 加速器体验：办公检索、流媒体播放与游戏加速可以共用同一份订阅，按套餐限额使用流量。</p><p>节点池覆盖常用亚太与欧美方向，旗舰与团队线路包含 IPLC 专线优化。基础线路适合网页与轻量视频，进阶线路面向原生流媒体解锁和更低抖动的游戏转发。官方下载入口与导入步骤集中在本页，避免在非官方渠道获取过期配置。</p><p>虚无阁不绑定单一客户端品牌，订阅可导入 Clash、Surge、Shadowrocket 等常见工具。设备数量按套餐约定，超出后需下线闲置终端。流量按自然月或订购周期重置，用尽后可升级或等待下一周期。</p></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境办公与资料检索</h3><p>远程会议、代码仓库与学术数据库对延迟和稳定性敏感。选择靠近目标站点的节点，配合系统代理或规则分流，可把国内常用服务留在直连，把需要加速的域名走虚无阁 VPN 通道。</p><h3>流媒体与内容平台</h3><p>基础版提供基础流媒体解锁，旗舰版与团队版强调全节点原生解锁。播放前先切换对应地区节点，并确认客户端已更新规则，避免旧分流把视频域名送错线路。</p><h3>游戏加速与实时通讯</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对丢包和抖动更敏感的对战与语音。团队版额外提供高带宽 VIP 节点，便于多人同时在线。连接后建议固定一条延迟更低的线路，而不是频繁自动切换。</p><h3>多设备同时在线</h3><p>手机、电脑与平板可以共用订阅。基础版 3 台、旗舰版 5 台、团队版 20 台。家庭或小团队把常用设备加入后，应关闭长期挂机的测试客户端，以免占满会话。</p></section><section id=\"plans\"><h2>套餐对比</h2><p>以下为当前官方套餐。价格按月展示，年付可降低平均成本。选择时先看流量与同时在线设备，再看流媒体与专线需求。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"tag\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><h3>如何对照选择</h3><p>个人轻度浏览与偶尔看视频，基础版即可。需要稳定解锁与游戏加速，优先旗舰版。工作室、实验室或多人口共用同一订阅，再考虑团队版的设备数与定制路由。年付适合已经验证客户端导入成功、准备长期使用的用户。</p></section><section id=\"guide\"><h2>操作说明</h2><p>虚无阁机场的使用路径是：确认套餐、获取订阅、导入客户端、选择节点、按规则分流。全程不需要在浏览器里安装插件作为唯一方案，桌面与移动端各自使用官方或主流开源客户端即可。</p><h3>开通与订阅</h3><ol><li>在官方网站选定基础版、旗舰版或团队版，完成订购后进入用户中心复制订阅地址。</li><li>订阅地址仅用于客户端更新节点，不要公开发布或写入公开仓库。</li><li>流量与到期时间以用户中心显示为准，年付与月付的重置周期保持一致按套餐说明执行。</li></ol><h3>导入客户端</h3><ol><li>打开已安装的 Clash、Surge、Shadowrocket 或其他兼容工具。</li><li>选择从 URL 导入或添加订阅，粘贴虚无阁提供的链接并命名便于识别。</li><li>手动更新一次订阅，确认节点列表出现香港、日本、新加坡、美国等方向。</li><li>开启系统代理或 VPN 模式，先访问普通网页验证连通，再测试流媒体或游戏。</li></ol><h3>分流与排障</h3><p>建议国内直连、海外走代理。若某条线路超时，切换同区域其他节点，而不是反复开关飞行模式。播放失败时检查是否选错地区节点，以及客户端规则是否过期。设备超限时，在已登录终端中断开空闲会话后再连。</p></section><section id=\"download\"><h2>客户端下载与官网指引</h2><p>虚无阁官方下载强调“订阅 + 客户端”两部分。客户端负责建立隧道，订阅负责拉取最新节点。请从本页锚点进入对应系统说明，避免来路不明的安装包。</p><h3>桌面端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端或 Surge（macOS）。导入订阅后开启 TUN 或系统代理。若公司网络限制 UDP，可在客户端中改用 TCP 或所提供的兼容端口。</p><h3>移动端</h3><p>Android 可使用兼容 Clash Meta 的应用；iOS 常用 Shadowrocket 或同类订阅客户端。首次连接建议在 Wi-Fi 下完成订阅更新，再切换蜂窝网络测试延迟。</p><h3>官方下载入口</h3><p>前往 <a href=\"#download\">官网下载</a> 区域核对系统版本说明，并同时保存订阅更新方式。节点变更后只需在客户端点击更新，不必重装软件。若官方渠道发布新的配置格式，以用户中心公告为准。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>虚无阁是什么服务，和普通 VPN 有何不同？</summary><p>虚无阁是机场订阅型网络加速服务，用户获得可更新的节点列表，而不是单一固定服务器。它可以作为 VPN 梯子使用，同时按套餐提供不同流量、设备数与 IPLC 线路，更适合需要长期订阅和多端同步的场景。</p></details><details><summary>如何在官方网站完成客户端下载并开始加速？</summary><p>先在本页阅读对应系统的客户端说明，安装兼容工具后，到用户中心复制订阅链接并导入。更新节点、选择地区、开启代理后即可使用虚无阁 VPN 通道。不要从论坛附件或来路不明网盘获取安装包。</p></details><details><summary>三个套餐的流量和设备限制怎么理解？</summary><p>基础版每月 100GB、3 台在线；旗舰版每月 300GB、5 台在线；团队版每月 1000GB、20 台在线。同时在线指并发会话，不是历史绑定设备总数。流量在周期内用尽后加速会受限，需升级套餐或等待重置。</p></details><details><summary>年付如何计算，能否中途升级？</summary><p>基础版按年付仅需 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，相当于月费十二个月的打包价。升级时按剩余周期折算是常见做法，具体以用户中心订单页展示为准。建议先用月付验证客户端与线路，再改年付。</p></details><details><summary>流媒体解锁失败或游戏延迟高怎么办？</summary><p>先确认套餐权限：基础版为解锁基础流媒体，旗舰与团队才强调全节点原生解锁和 IPLC 游戏优化。失败时更换同区域节点、更新订阅规则，并避免全局模式把所有国内视频也送去代理。游戏请固定一条延迟更低的专线节点观察抖动。</p></details><details><summary>支持哪些系统，订阅能在多台设备共用吗？</summary><p>常见 Windows、macOS、Android、iOS 均可导入同一订阅，数量受套餐同时在线上限约束。团队版还支持企业定制路由，适合把办公网段与个人设备分开策略。更换手机时删除旧配置即可释放会话。</p></details></section><section id=\"ads\"><h2>公告与展示位</h2><p>官方公告：节点维护与客户端兼容说明会发布在官网首页本区域。当前展示用于服务说明与下载提醒，不嵌入第三方脚本。获取加速器更新时请回到 <a href=\"#download\">客户端下载</a> 与 <a href=\"#plans\">套餐对比</a>。</p></section><section id=\"links\"><h2>友情链接</h2><p class=\"links\"><a href=\"#intro\">虚无阁简介</a><a href=\"#plans\">套餐一览</a><a href=\"#guide\">导入教程</a><a href=\"#download\">官方下载</a><a href=\"#faq\">问答</a><a href=\"#sitemap\">站点地图</a></p></section><section id=\"sitemap\"><h2>站点地图</h2><p class=\"links\"><a href=\"#top\">首页标题</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐对比</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">公告</a><a href=\"#links\">友链</a></p><p>本页为虚无阁官方网站信息页，覆盖机场订阅、VPN 梯子网络加速与客户端下载说明，便于检索与对照套餐。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"inner\"><h2>虚无阁官方网站</h2><p>虚无阁提供机场订阅与 VPN 网络加速相关说明、套餐对照和客户端下载指引。使用锚点即可回到简介、场景、套餐、操作与问答。</p><p class=\"links\"><a href=\"#top\">返回顶部</a><a href=\"#download\">官网下载</a><a href=\"#sitemap\">站点地图</a></p><p class=\"muted\">© 虚无阁 版权所有。页面仅包含静态说明，连接与订购以用户中心实时状态为准。</p></div></footer>",
+          "hash": "d9297aa1f1a918d172e03b7dce34d711dd7a18df244e893a7b6a5755225c4b5b",
+          "seo": {
+            "title": "虚无阁官网：VPN 梯子网络加速、机场订阅与客户端下载",
+            "keywords": "虚无阁,虚无阁机场,虚无阁VPN,VPN梯子,网络加速,加速器,机场订阅,客户端下载,官网下载,IPLC专线",
+            "description": "虚无阁提供高可用机场订阅与 VPN 网络加速服务，支持多设备客户端下载，覆盖流媒体解锁、办公与游戏加速，欢迎访问官方网站了解套餐并获取下载指引。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cktcl.cn",
+    "host": "p-f0e6cdbc66.cktcl.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "cktcl.cn",
+      "url": "https://cktcl.cn/",
+      "label": "免流(EMO)",
+      "apex": "cktcl.cn",
+      "kind": null,
+      "identity": "geubjhv/page-6a2f8d120fdcc54045655644"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "794acfbd82b650dbb6a4674ec4f00ce8d0eb9f0fc6457db09e851778b0aeea7b",
+    "sitemap.xml": "94f129bccfea79fe3cd805d525c0b676070f8e9a0e35937c4d1967c12bbc69e3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "253da4703a3cb237e32c9bbee66e36baf73f0e60e8d61860781aeb1870283da6",
+    "robots.txt": "2e15bb3d80ca4232c6cc37bc659a69361f3ec1ca9be0f29871039122596995e9",
+    "2bcc45c111d18c2acd349b6611c7def0.txt": "6cf799bec5ff4fa81090a4fde3ada94814f6a7696fd5055cc0458c09164b5e21"
+  },
+  "revision": "1db954dfdca11dfb83b76cb0452874b2fddcc1762b78e3c60c99f285f33f0a75"
+}

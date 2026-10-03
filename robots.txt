@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-f0e6cdbc66.cktcl.cn/sitemap.xml
